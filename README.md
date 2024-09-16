@@ -1,6 +1,6 @@
 
 # Documentación System *matricula backend*
-![Logo](https://portfolio-b1bb8.web.app/assets/images/projects/system-tuition.svg)
+![Logo](https://avatars.githubusercontent.com/u/144494659?v=4)
 
 This application is a CRUD (Create, Read, Update, Delete) developed using Spring Boot. It allows managing resources through a RESTful API.
 
